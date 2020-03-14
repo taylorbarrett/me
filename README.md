@@ -6,7 +6,7 @@ Digital logo design for local EAA chapter
 
 © 2020 Taylor Lucas Barrett.
 
-<a href="https://github.com/taylorbarrett/EAA-logo"><img src="https://github.com/taylorbarrett/EAA-logo/raw/master/Screen%20Shot%202020-03-14%20at%209.00.35%20AM.png" width="100%" alt="EAAlogo"></a>
+<a href="https://github.com/taylorbarrett/Hexagon_Lamp/raw/master/README.md"><img src="https://github.com/taylorbarrett/EAA-logo/raw/master/Screen%20Shot%202020-03-14%20at%209.00.35%20AM.png" width="100%" alt="EAAlogo"></a>
 
 ## Spiral Floor Lamp
 
