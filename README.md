@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## Boulder Pipe Map
+
+Environmental sculpture project featuring historic Boulder Parks and Recreation maps and documentation and a rendition of the map of north Boulder made of copper pipe and fittings.
+
+© 2020 Taylor Lucas Barrett.
+
+<a href="https://github.com/taylorbarrett/boulder-map"><img src="https://github.com/taylorbarrett/boulder-map/raw/master/49658115873_758a2bd499_c.jpg" width="100%" alt="EAAlogo"></a>
+
 ## EAA Logo Design
 
 Digital logo design for local EAA chapter
