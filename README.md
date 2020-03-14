@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## Spiral Floor Lamp
+
+"Unrolled" 3-D spiral floor lamp
+
+© 2020 Taylor Lucas Barrett.
+
+<a href="https://github.com/taylorbarrett/spiral-lamp"><img src="https://github.com/taylorbarrett/spiral-lamp/blob/master/IMG_20200304_125510.jpg" width="100%" alt="spiral_lamp"></a>
+
 ## Stacked Hexagon Lamp
 
 3-D Lamp base made of sliced & re-stacked laser cut hexagons
