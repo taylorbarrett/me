@@ -22,7 +22,7 @@ Digital logo design for local EAA chapter
 
 © 2020 Taylor Lucas Barrett.
 
-<a href="https://github.com/taylorbarrett/Hexagon_Lamp"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105924.jpg" width="100%" alt="Hexagon Lamp"></a>
+<a href="https://github.com/taylorbarrett/Hexagon_Lamp"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105924.jpg?raw=true" width="100%" alt="Hexagon Lamp"></a>
 
 ## NYC Skyline Lightbox
 
