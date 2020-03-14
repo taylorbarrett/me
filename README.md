@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## Stacked Hexagon Lamp
+
+3-D Lamp base made of sliced & re-stacked laser cut hexagons
+
+© 2020 Taylor Lucas Barrett.
+
+<a href="https://github.com/taylorbarrett/Hexagon_Lamp"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/blob/master/IMG_20200219_105924.jpg" width="100%" alt="Hexagon Lamp"></a>
+
 ## NYC Skyline Lightbox
 
 Acrylic lasercut sheets, wood, epoxy, paint, LED lighting.
