@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## Sturt's Desert Pea Woodworking Project
+
+Hand-carved wooden water cup & lid designed to look like Sturt's Desert Pea.
+
+© 2020 Taylor Lucas Barrett.
+
+<a href="https://github.com/taylorbarrett/sturts-desert-pea"><img src="https://github.com/taylorbarrett/sturts-desert-pea/raw/master/49658862581_cf53775395_c.jpg" width="100%" alt="EAAlogo"></a>
+
 ## Boulder Pipe Map
 
 Environmental sculpture project featuring historic Boulder Parks and Recreation maps and documentation and a rendition of the map of north Boulder made of copper pipe and fittings.
