@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## EAA Logo Design
+
+Digital logo design for local EAA chapter
+
+© 2020 Taylor Lucas Barrett.
+
+<a href="https://github.com/taylorbarrett/EAA-logo"><img src="hhttps://github.com/taylorbarrett/EAA-logo/blob/master/Screen%20Shot%202020-03-14%20at%209.00.35%20AM.png" width="100%" alt="spiral_lamp"></a>
+
 ## Spiral Floor Lamp
 
 "Unrolled" 3-D spiral floor lamp
