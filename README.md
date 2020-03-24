@@ -7,6 +7,7 @@
 Click image to see more cuteness!
 
 <a href="https://github.com/taylorbarrett/Kismet"><img src="https://github.com/taylorbarrett/Kismet/raw/master/2020-03-23_08-38-27.jpg" width="100%" alt="Kismet"></a>
+Image © 2020 Brooks G. Mershon
 
 ## Sturt's Desert Pea Woodworking Project
 
