@@ -1,5 +1,13 @@
 # Taylor Lucas Barrett
 
+## Meet Kismet
+
+2-lb wiggly ball of ridiculously soft brown fluff with the most adorable face you've ever seen in your entire life. Purebred Mini Dachshund from FlicKennel Dachshund Breeders in Westcliffe, CO. Born: 1/23/20. Adopted: 3/22/20.
+
+Click image to see more cuteness!
+
+<a href="https://github.com/taylorbarrett/Kismet"><img src="https://github.com/taylorbarrett/Kismet/raw/master/2020-03-23_08-38-27.jpg" width="100%" alt="Kismet"></a>
+
 ## Sturt's Desert Pea Woodworking Project
 
 Hand-carved wooden water cup & lid designed to look like Sturt's Desert Pea.
