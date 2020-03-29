@@ -1,74 +1,54 @@
 # Taylor Lucas Barrett
 
-## Meet Kismet
+## Artwork:
+
+Click images to see galleries.
+
+<a href="https://github.com/taylorbarrett/logos-graphic-design"><img src="https://github.com/taylorbarrett/logos-graphic-design/raw/master/logos.png" width="100%" alt="Logos"></a>
+
+<a href="https://github.com/taylorbarrett/industrial-design"><img src="https://github.com/taylorbarrett/industrial-design/raw/master/industrial%20design.png" width="100%" alt="Industrial-Design"></a>
+
+<a href="https://github.com/taylorbarrett/paintings"><img src="https://github.com/taylorbarrett/paintings/raw/master/paintings.png" width="100%" alt="Paintings"></a>
+
+<a href="https://www.flickr.com/photos/186565260@N06/"><img src="https://github.com/taylorbarrett/Photography/raw/master/photography.png" width="100%" alt="Photography"></a>
+
+## Writing:
+
+[Click here to see my Medium library.](https://medium.com/@taylorlucasbarrett)
+
+## Business:
+
+[TLBarrett Designs on Facebook.](https://medium.com/@taylorlucasbarrett)
+
+[Taylor Lucas Barrett on LinkedIn.](https://medium.com/@taylorlucasbarrett)
+
+[COVID-19 Medical PPE Sewing Project.](https://medium.com/@taylorlucasbarrett)
+
+## Collaborative Work:
+
+[Featured on YouTube.](https://medium.com/@taylorlucasbarrett)
+
+## Personal:
+
+### COVID-19 Medical PPE Sewing Project
+
+In response to the urgent need for medical PPE during the COVID-19 pandemic, I am assembling a team of seamstresses (including myself) to volunteer their time and skills to sew medical PPE such as masks and gowns to be donated to local hospitals. As part of an industrial design project for school, I am also designing a mask sewing pattern and instruction/materials kit to be used in this effort (packets with materials, patterns, and sewing instructions with be made available to seamstresses contributing to the project). The mask pattern was created by merging and modifying several CDC-approved mask patterns found online with pattern alterations and additions resulting from prototype testing and production process simplifications. 
+
+Want to get involved?
+
+[Check out the project Facebook page here.](https://medium.com/@taylorlucasbarrett)
+
+[Apply here to become a team member and receive face mask production packets.](https://medium.com/@taylorlucasbarrett)
+
+[Click here to donate fabric and other materials.](https://medium.com/@taylorlucasbarrett)
+
+### Meet Kismet
 
 2-lb wiggly ball of ridiculously soft brown fluff with the most adorable face you've ever seen in your entire life. Purebred Mini Dachshund from FlicKennel Dachshund Breeders in Westcliffe, CO. Born: 1/23/20. Adopted: 3/22/20.
 
 Click image to see more cuteness!
 
 <a href="https://github.com/taylorbarrett/Kismet"><img src="https://github.com/taylorbarrett/Kismet/raw/master/2020-03-23_08-38-27.jpg" width="100%" alt="Kismet"></a>
+
 Image © 2020 Brooks G. Mershon
 
-## Sturt's Desert Pea Woodworking Project
-
-Hand-carved wooden water cup & lid designed to look like Sturt's Desert Pea.
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/sturts-desert-pea"><img src="https://github.com/taylorbarrett/sturts-desert-pea/raw/master/49658862581_cf53775395_c.jpg" width="100%" alt="EAAlogo"></a>
-
-## Boulder Pipe Map
-
-Environmental sculpture project featuring historic Boulder Parks and Recreation maps and documentation and a rendition of the map of north Boulder made of copper pipe and fittings.
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/boulder-map"><img src="https://github.com/taylorbarrett/boulder-map/raw/master/49658115873_758a2bd499_c.jpg" width="100%" alt="EAAlogo"></a>
-
-## EAA Logo Design
-
-Digital logo design for local EAA chapter
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/EAA-logo#eaa-logo-design"><img src="https://github.com/taylorbarrett/EAA-logo/raw/master/Screen%20Shot%202020-03-14%20at%209.00.35%20AM.png" width="100%" alt="EAAlogo"></a>
-
-## Spiral Floor Lamp
-
-"Unrolled" 3-D spiral floor lamp
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/spiral-lamp"><img src="https://github.com/taylorbarrett/spiral-lamp/raw/master/49658076998_63c5d91dae_c.jpg" width="100%" alt="spiral_lamp"></a>
-
-## Stacked Hexagon Lamp
-
-3-D Lamp base made of sliced & re-stacked laser cut hexagons
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/Hexagon_Lamp"><img src="https://github.com/taylorbarrett/Hexagon_Lamp/raw/master/49658619146_e7c7bca3f1_c.jpg" width="100%" alt="Hexagon Lamp"></a>
-
-## NYC Skyline Lightbox
-
-Acrylic lasercut sheets, wood, epoxy, paint, LED lighting.
-
-© 2020 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/nyc-lightbox"><img src="https://github.com/taylorbarrett/nyc-lightbox/raw/master/photos/49470800398_3181a8514a_c.jpg" width="100%" alt="Commit Aviation"></a>
-
-## Neon Sunset
-
-Acrylic on canvas.
-
-© 2019 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/neon-sunset"><img src="https://github.com/taylorbarrett/neon-sunset/raw/master/49658910566_160cdcdab1_c.jpg" width="100%" alt="sunset"></a>
-
-## Commit Aviation
-
-Acrylic on canvas.
-
-© 2019 Taylor Lucas Barrett.
-
-<a href="https://github.com/taylorbarrett/commit-aviation"><img src="https://github.com/taylorbarrett/me/raw/master/images/commit_aviation_teaser.jpg" width="100%" alt="commit_aviation"></a>
