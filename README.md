@@ -18,15 +18,15 @@ Click images to see galleries.
 
 ## Business:
 
-[TLBarrett Designs on Facebook.](https://medium.com/@taylorlucasbarrett)
+[TLBarrett Designs on Facebook.](https://www.facebook.com/TLBarrett-Designs-103721397952975/?modal=admin_todo_tour)
 
-[Taylor Lucas Barrett on LinkedIn.](https://medium.com/@taylorlucasbarrett)
+[Taylor Lucas Barrett on LinkedIn.](https://www.linkedin.com/in/taylor-barrett-804803195/)
 
 [COVID-19 Medical PPE Sewing Project.](https://medium.com/@taylorlucasbarrett)
 
 ## Collaborative Work:
 
-[Featured on YouTube.](https://medium.com/@taylorlucasbarrett)
+[Featured on YouTube.](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ)
 
 ## Personal:
 
